@@ -7,7 +7,7 @@
 // Require morgan and body-parser middleware
 
 // Have the server use morgan with setting 'dev'
-
+console.log('Cole')
 // Import cors 
 // Have the server use cors()
 
